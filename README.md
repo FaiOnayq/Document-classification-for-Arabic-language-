@@ -51,7 +51,10 @@ A basic Flask web application is implemented for deployment:
 - Run locally via: `http://127.0.0.1:5000`
 
 ## ✔️ Samples 
-Refer to folder `/samples` for images results for the classification.
+(samples/sample1.jpeg)
+(samples/sample2.jpeg)
+(samples/sample3.jpeg)
+
 
 ## 📦 Requirements
 
