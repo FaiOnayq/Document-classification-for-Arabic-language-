@@ -1,6 +1,6 @@
 # Document Classification for Arabic Language Using KALIMAT Arabic Corpus 
 
-This project involves classifying Arabic text documents from the **KALIMAT Multipurpose Arabic Corpus** (https://sourceforge.net/projects/kalimat/files/kalimat/document-collection/) using machine learning techniques. The dataset consists of articles collected from an Omani newspaper, categorized into six classes: culture, economy, local news, international news, religion, and sports.
+This project involves classifying Arabic text documents from the **KALIMAT Multipurpose Arabic Corpus** [KALIMAT](https://sourceforge.net/projects/kalimat/files/kalimat/document-collection/) using machine learning techniques. The dataset consists of articles collected from an Omani newspaper, categorized into six classes: culture, economy, local news, international news, religion, and sports.
 
 ## 📁 Dataset Overview
 
