@@ -51,9 +51,9 @@ A basic Flask web application is implemented for deployment:
 - Run locally via: `http://127.0.0.1:5000`
 
 ## ✔️ Samples 
-[sample 1](samples/sample1.jpeg)
-[sample 2](samples/sample2.jpeg)
-[sample 3](samples/sample3.jpeg)
+![sample 1](samples/sample1.jpeg)
+![sample 2](samples/sample2.jpeg)
+![sample 3](samples/sample3.jpeg)
 
 
 ## 📦 Requirements
